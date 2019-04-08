@@ -9,11 +9,11 @@
 import UIKit
 import OctoKit
 
-class LoginViewController: UIViewController {
 
-    @IBAction func authenticateWithGitHub() {
-        store.dispatch(authenticateUser)
-    }
-
+class LoginViewController:UIViewController
+{
+	@IBAction func authenticateWithGitHub()
+	{
+		store.dispatch(authenticateUser)
+	}
 }
-

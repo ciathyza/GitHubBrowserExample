@@ -10,11 +10,14 @@ import ReSwift
 import OctoKit
 import RequestKit
 
-func repositoriesReducer(state: Response<[Repository]>?, action: Action) -> Response<[Repository]>? {
-    switch action {
-    case let action as SetRepositories:
-        return action.repositories
-    default:
-        return nil
-    }
+
+func repositoriesReducer(state:Response<[Repository]>?, action:Action) -> Response<[Repository]>?
+{
+	switch action
+	{
+		case let action as SetRepositories:
+			return action.repositories
+		default:
+			return nil
+	}
 }

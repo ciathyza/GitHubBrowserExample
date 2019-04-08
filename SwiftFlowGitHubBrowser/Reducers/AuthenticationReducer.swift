@@ -10,41 +10,37 @@ import Foundation
 import ReSwift
 import OctoKit
 
-func authenticationReducer(state: AuthenticationState?, action: Action) -> AuthenticationState {
-    var state = state ?? initialAuthenticationState()
 
-    switch action {
-    case _ as ReSwiftInit:
-        break
-    case let action as SetOAuthURL:
-        state.oAuthURL = action.oAuthUrl
-    case let action as UpdateLoggedInState:
-        state.loggedInState = action.loggedInState
-    default:
-        break
-    }
-
-    return state
+func authenticationReducer(state:AuthenticationState?, action:Action) -> AuthenticationState
+{
+	var state = state ?? initialAuthenticationState()
+	
+	switch action
+	{
+		case _ as ReSwiftInit:
+			break
+		case let action as SetOAuthURL:
+			state.oAuthURL = action.oAuthUrl
+		case let action as UpdateLoggedInState:
+			state.loggedInState = action.loggedInState
+		default:
+			break
+	}
+	
+	return state
 }
 
-func initialAuthenticationState() -> AuthenticationState {
-    let config = OAuthConfiguration(
-        token: gitHubClientId,
-        secret: gitHubClientSecret,
-        scopes: ["repo", "read:org"]
-    )
 
-    if let authData = AuthenticationService().authenticationData() {
-        return AuthenticationState(
-            oAuthConfig: config,
-            oAuthURL: nil,
-            loggedInState: .loggedIn(authData)
-        )
-    } else {
-        return AuthenticationState(
-            oAuthConfig: config,
-            oAuthURL: nil,
-            loggedInState: .notLoggedIn
-        )
-    }
+func initialAuthenticationState() -> AuthenticationState
+{
+	let config = OAuthConfiguration( token: gitHubClientId, secret: gitHubClientSecret, scopes: ["repo", "read:org"] )
+	
+	if let authData = AuthenticationService().authenticationData()
+	{
+		return AuthenticationState( oAuthConfig: config, oAuthURL: nil, loggedInState: .loggedIn(authData) )
+	}
+	else
+	{
+		return AuthenticationState( oAuthConfig: config, oAuthURL: nil, loggedInState: .notLoggedIn )
+	}
 }

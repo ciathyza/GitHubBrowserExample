@@ -10,7 +10,9 @@ import Foundation
 import ReSwift
 import ReSwiftRouter
 
-struct CreateBookmark: Action {
-    let route: [RouteElementIdentifier]
-    let routeSpecificData: Any?
+
+struct CreateBookmark:Action
+{
+	let route:[RouteElementIdentifier]
+	let routeSpecificData:Any?
 }

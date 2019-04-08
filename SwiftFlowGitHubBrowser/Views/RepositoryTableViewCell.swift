@@ -10,10 +10,14 @@ import Foundation
 import ListKit
 import OctoKit
 
-class RepositoryTableViewCell: UITableViewCell, ListKitCellProtocol {
-    var model: Repository? {
-        didSet {
-            self.textLabel!.text = model?.name ?? ""
-        }
-    }
+
+class RepositoryTableViewCell:UITableViewCell, ListKitCellProtocol
+{
+	var model:Repository?
+	{
+		didSet
+		{
+			self.textLabel!.text = model?.name ?? ""
+		}
+	}
 }

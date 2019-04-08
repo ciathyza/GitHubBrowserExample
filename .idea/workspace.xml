@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Source Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1da6795-805b-4cf5-b2ca-d276c1c774f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ListKit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Nimble_iOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Nimble_macOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Nimble_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OctoKit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OctoKit_Mac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OctoKit_MacTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OctoKit_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/OctoKit_watchOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Quick_iOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Quick_macOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Quick_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwiftRouter_iOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwiftRouter_macOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwiftRouter_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwiftRouter_watchOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_iOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_macOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ReSwift_watchOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RequestKit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RequestKit_Mac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RequestKit_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/RequestKit_watchOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SAMKeychain_iOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SAMKeychain_macOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SAMKeychain_tvOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SAMKeychain_watchOS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SwiftFlowGitHubBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cartfile.resolved" beforeDir="false" afterPath="$PROJECT_DIR$/Cartfile.resolved" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/APIRequests/GitHubRepositories.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/APIRequests/GitHubRepositories.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/AuthenticationActions.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/AuthenticationActions.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/BookmarkActions.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/BookmarkActions.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/GitHubRepositoriesActions.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/GitHubRepositoriesActions.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/GitHubAuth/Credentials.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/GitHubAuth/Credentials.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AppReducer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AppReducer.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AuthenticationReducer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AuthenticationReducer.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/BookmarksReducer.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/BookmarksReducer.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/GitHubAPIReducers.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/GitHubAPIReducers.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Routes/Routes.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Routes/Routes.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/AuthenticationService.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/AuthenticationService.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/BookmarkService.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/BookmarkService.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/AuthenticationState.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/AuthenticationState.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/State.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/State.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/UIKitExtensions/NavigationController+CompletionBlock.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/UIKitExtensions/NavigationController+CompletionBlock.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/BookmarkViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/BookmarkViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/LoginViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/LoginViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/MainViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/MainViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/RepositoryDetailViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/RepositoryDetailViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/BookmarkTableViewCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/BookmarkTableViewCell.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/RepositoryTableViewCell.swift" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/RepositoryTableViewCell.swift" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_376F691E-1DE7-422E-8FEB-915D8A8858C1" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Routes/Routes.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="216" column="99" selection-start-line="216" selection-start-column="99" selection-end-line="216" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/AuthenticationState.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/State.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/AuthenticationService.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/BookmarkService.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AppReducer.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/BookmarksReducer.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/GitHubAPIReducers.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/APIRequests/GitHubRepositories.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/GitHubAuth/Credentials.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/UIKitExtensions/NavigationController+CompletionBlock.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/BookmarkViewController.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/LoginViewController.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/MainViewController.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/RepositoryDetailViewController.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/AppDelegate.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/BookmarkTableViewCell.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/RepositoryTableViewCell.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AuthenticationReducer.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/AuthenticationActions.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/BookmarkActions.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/GitHubRepositoriesActions.swift" />
+        <option value="$PROJECT_DIR$/SwiftFlowGitHubBrowser/Routes/Routes.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="Actions" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="APIRequests" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="GitHubAuth" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="Reducers" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="Routes" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="Services" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="State" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="UIKitExtensions" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="ViewControllers" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="SwiftFlowGitHubBrowser" type="1d218c8b:XcodeProjectNode" />
+              <item name="SwiftFlowGitHubBrowser" type="fcab9f18:XcodeViewNode" />
+              <item name="Views" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SwiftFlowGitHubBrowser.xcodeproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="XcodeSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ListKit">
+    <list>
+      <item itemvalue="Application.ListKit" />
+      <item itemvalue="Application.Nimble-iOS" />
+      <item itemvalue="Application.Nimble-macOS" />
+      <item itemvalue="Application.Nimble-tvOS" />
+      <item itemvalue="Application.OctoKit" />
+      <item itemvalue="Application.OctoKit Mac" />
+      <item itemvalue="Application.OctoKit tvOS" />
+      <item itemvalue="Application.OctoKit watchOS" />
+      <item itemvalue="Application.Quick-iOS" />
+      <item itemvalue="Application.Quick-macOS" />
+      <item itemvalue="Application.Quick-tvOS" />
+      <item itemvalue="Application.RequestKit" />
+      <item itemvalue="Application.RequestKit Mac" />
+      <item itemvalue="Application.RequestKit tvOS" />
+      <item itemvalue="Application.RequestKit watchOS" />
+      <item itemvalue="Application.ReSwift-iOS" />
+      <item itemvalue="Application.ReSwift-macOS" />
+      <item itemvalue="Application.ReSwift-tvOS" />
+      <item itemvalue="Application.ReSwift-watchOS" />
+      <item itemvalue="Application.ReSwiftRouter-iOS" />
+      <item itemvalue="Application.ReSwiftRouter-macOS" />
+      <item itemvalue="Application.ReSwiftRouter-tvOS" />
+      <item itemvalue="Application.ReSwiftRouter-watchOS" />
+      <item itemvalue="Application.SAMKeychain-iOS" />
+      <item itemvalue="Application.SAMKeychain-macOS" />
+      <item itemvalue="Application.SAMKeychain-tvOS" />
+      <item itemvalue="Application.SAMKeychain-watchOS" />
+      <item itemvalue="Application.SwiftFlowGitHubBrowser" />
+      <item itemvalue="XCTest.OctoKit MacTests" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1da6795-805b-4cf5-b2ca-d276c1c774f2" name="Default Changelist" comment="" />
+      <created>1554692613100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554692613100</updated>
+      <workItem from="1554692619258" duration="2297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2297000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4995064" visible="true" weight="0.1625" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Json Parser" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="6" sideWeight="0.5004936" side_tool="true" visible="true" weight="0.18229167" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/AuthenticationState.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/State/State.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/AuthenticationService.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Services/BookmarkService.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Carthage/Checkouts/ReSwiftRouter/ReSwiftRouter/NavigationState.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/APIRequests/GitHubRepositories.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/GitHubAuth/Credentials.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/UIKitExtensions/NavigationController+CompletionBlock.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/BookmarkViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/LoginViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/MainViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1471">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/ViewControllers/RepositoryDetailViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/BookmarkTableViewCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Views/RepositoryTableViewCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AppReducer.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/AuthenticationReducer.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/BookmarksReducer.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Reducers/GitHubAPIReducers.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/AuthenticationActions.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/BookmarkActions.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Actions/GitHubRepositoriesActions.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwiftFlowGitHubBrowser/Routes/Routes.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="216" column="99" selection-start-line="216" selection-start-column="99" selection-end-line="216" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

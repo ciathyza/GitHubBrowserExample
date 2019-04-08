@@ -11,6 +11,8 @@ import ReSwift
 import OctoKit
 import RequestKit
 
-struct SetRepositories: Action {
-    let repositories: Response<[Repository]>
+
+struct SetRepositories:Action
+{
+	let repositories:Response<[Repository]>
 }

@@ -9,11 +9,13 @@
 import ReSwift
 import ReSwiftRouter
 
-func appReducer(action: Action, state: State?) -> State {
-    return State(
-        navigationState: NavigationReducer.handleAction(action, state: state?.navigationState),
-        authenticationState: authenticationReducer(state: state?.authenticationState, action: action),
-        repositories: repositoriesReducer(state: state?.repositories, action: action),
-        bookmarks: bookmarksReducer(state: state?.bookmarks, action: action)
-    )
+
+func appReducer(action:Action, state:State?) -> State
+{
+	return State(
+			navigationState: NavigationReducer.handleAction(action, state: state?.navigationState),
+			authenticationState: authenticationReducer(state: state?.authenticationState, action: action),
+			repositories: repositoriesReducer(state: state?.repositories, action: action),
+			bookmarks: bookmarksReducer(state: state?.bookmarks, action: action)
+	)
 }
